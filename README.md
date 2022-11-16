@@ -8,3 +8,5 @@
 ## braA
 ## braC
 ## mainEdit in braC
+## Lesson stash
+gitignore
